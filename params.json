@@ -1,6 +1,6 @@
 {
   "name": "CallHelper",
   "tagline": "Update for Blacklist Database",
-  "body": "### Welcome to CallHelper\r\n### This is a blacklist call block App\r\n### It's simple, efficient, elegant and easy to use\r\n\r\n### When you make your own blacklist, make sure it is encoded in UTF8.\r\n\r\n[Example blacklist file is here, about 2M.](https://raw.githubusercontent.com/DesmondJew/CallHelperDatabase/master/blacklistTestFile)\r\n\r\n[Blacklist file format is here, just few bytes.](https://raw.githubusercontent.com/DesmondJew/CallHelperDatabase/master/blacklistFormat)",
+  "body": "### Welcome to CallHelper\r\n### This is a blacklist call block App\r\n### It's simple, efficient, elegant and easy to use\r\n\r\n### When you make your own blacklist, make sure it is encoded in UTF8.\r\n\r\n[Blacklist file format is here, just few bytes.](https://raw.githubusercontent.com/DesmondJew/CallHelperDatabase/master/blacklistFormat)\r\n\r\n[Example blacklist file is here, about 2M.](https://raw.githubusercontent.com/DesmondJew/CallHelperDatabase/master/blacklistTestFile)\r\n\r\n[Blacklist patch 2016-08-31(1.8M)]\r\n(https://raw.githubusercontent.com/DesmondJew/CallHelperDatabase/master/blacklistPatch2016-08-31.txt)\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
