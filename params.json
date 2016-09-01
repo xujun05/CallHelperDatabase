@@ -1,6 +1,6 @@
 {
   "name": "CallHelper",
   "tagline": "Update for Blacklist Database",
-  "body": "### Welcome to CallHelper\r\n### This is a blacklist call block App\r\n### It's simple, efficient, elegant and easy to use",
+  "body": "### Welcome to CallHelper\r\n### This is a blacklist call block App\r\n### It's simple, efficient, elegant and easy to use\r\n### Example blacklist file is here, about 2M.\r\nhttps://raw.githubusercontent.com/DesmondJew/CallHelperDatabase/master/blacklistTestFile",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
